@@ -1,0 +1,17 @@
+#map {
+  height: 100vh;
+  width: 100vw;
+}
+
+body {
+  margin: 0;
+  overflow: hidden;
+}
+
+.button {
+  width: 65px;
+  height: 21px;
+  background-color: DodgBlue;
+  border-radius: 101px;
+  border: none;
+}
